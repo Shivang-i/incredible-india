@@ -1,0 +1,146 @@
+*{
+    background-color:ivory;
+    padding: 0%;
+    margin: 10px;
+    
+}
+img{
+    border-style: double;
+    border-color:chocolate  ;
+}
+#welcome{
+    color: aliceblue;
+    background-color: black;
+    font-size: 80px;
+    font-style: italic;
+}
+h2{
+
+    color: darkblue;
+    font-size: 30px;
+    font-style: unset;
+    font-weight: bolder;
+}
+.intro
+{
+    text-align: center;
+    font-size: 20px;
+}
+.jaipur
+{
+    display: flex;
+}
+.jaipur div{
+    margin-right: 5px;
+}
+.jaipur-discription{
+    text-align: center;
+    color: crimson;
+    font-size: 30px;
+    font: italic;
+    
+}
+.mumbai
+{
+    display: flex;
+}
+.mumbai div{
+    margin-right: 5px;
+}
+.mumbai-discription{
+    text-align: center;
+    color:black;
+    font-size: 30px;
+    font: italic;
+    
+}
+.hyderabad
+{
+    display: flex;
+}
+.hyderabad div{
+    margin-right: 5px;
+}
+.hyderabad-discription{
+    text-align: center;
+    color:blue;
+    font-size: 30px;
+    font: italic;
+    
+}
+
+
+
+.agra
+{
+    display: flex;
+}
+.agra div{
+    margin-right: 5px;
+}
+.agra-discription{
+    text-align: center;
+    color:black;
+    font-size: 30px;
+    font: italic;
+    
+}
+.amritsar
+{
+    display: flex;
+}
+.amritsar div{
+    margin-right: 5px;
+}
+.amritsar-discription{
+    text-align: center;
+    color:purple;
+    font-size: 30px;
+    font: italic;
+    
+}
+.darjeeling
+{
+    display: flex;
+}
+.darjeeling div{
+    margin-right: 5px;
+}
+.darjeeling-discription{
+    text-align: center;
+    color:black;
+    font-size: 30px;
+    font: italic;
+    
+}
+.bengluru
+{
+    display: flex;
+}
+.bengluru div{
+    margin-right: 5px;
+}
+.bengluru-discription{
+    text-align: center;
+    color:darkgreen;
+    font-size: 30px;
+    font: italic;
+    
+}
+.end{
+    font-size: 150px;
+    background-color: black;
+    color: bisque;
+    text-align: center;
+}
+.end-para{
+    text-align: right;
+    font-size: 40px;
+    font-family:cursive;
+}
+h1{
+    color:black;
+    font-size: 40px;
+    font-style: italic;
+    background-color:burlywood;
+}
